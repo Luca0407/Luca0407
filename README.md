@@ -1,6 +1,6 @@
 ### Hey 👋
 
-# 💫 About Me:
+# 🔍 About Me:
 💻 Python developer.<br>📚 I’m currently studying JS and Ruby.<br>🐍 Also, I'm working in some Python projects.<br>🤝 Any help is welcome!
 
 
