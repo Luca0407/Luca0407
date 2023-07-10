@@ -1,7 +1,7 @@
 ### Hey 👋
 
 # 🔍 About Me:
-💻 Python developer.<br>📚 I’m currently studying JS and Ruby.<br>🐍 Also, I'm working in some Python projects.<br>🤝 Any help is welcome!
+💻 Python developer.<br>📚 I’m currently studying JS.<br>🐍 Also, I'm working in some Python projects.<br>🤝 Any help is welcome!
 
 
 ## 🌐 Socials:
